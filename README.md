@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an simple implemention of "single image haze removal using dark channel prior" by kaiming He, which wins the CVPR09 best paper.
+This is an simple implemention of "single image haze removal using dark channel prior" by kaiming He, who wins the CVPR09 best paper.
 
 ## Parameters by default
 - radius=7
